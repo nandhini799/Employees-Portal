@@ -5,7 +5,8 @@
 
 # Index Page - User Authentication:
 
-The interactive Dash application begins with the Index Page, acting as a secure gateway for users. Here, users input their credentials for authentication, ensuring access for authorized individuals.
+- The interactive Dash application begins with the Index Page, acting as a secure gateway for users.
+- Users input their credentials for authentication, ensuring access for authorized individuals.
 
 <img width="903" alt="Screenshot 2024-02-16 at 3 11 09 PM" src="https://github.com/nandhini799/Employees-Portal/assets/153508488/5e4833d4-7fba-450c-b97d-e18831b5020f">
 
