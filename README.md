@@ -1,4 +1,8 @@
 # Employees-Portal
+
+<img width="956" alt="Screenshot 2024-02-16 at 4 28 19 PM" src="https://github.com/nandhini799/Employees-Portal/assets/153508488/7216fae9-d859-42a0-b78a-68d96c16b35c">
+
+
 # Index Page - User Authentication:
 The initiation of this interactive Dash application commences with the Index Page, which serves as a secure gateway for users. Within this interface, users are prompted to input their credentials for authentication purposes. This essential step guarantees access to authorized individuals.
 
@@ -18,5 +22,5 @@ Within this tab, users once again encounter two dropdowns: dropdown1, populated 
 In this tab, users are presented with a dropdown to select the team name. Upon selection, the tab displays the average number of open and closed User Stories, as well as the performance score of that particular team for every month. This feature facilitates a comprehensive understanding of team performance over time.
 
 By encapsulating these features and functionalities, the Dash application offers users a powerful platform for insightful exploration and analysis of project data.
-<img width="956" alt="Screenshot 2024-02-16 at 4 28 19 PM" src="https://github.com/nandhini799/Employees-Portal/assets/153508488/7216fae9-d859-42a0-b78a-68d96c16b35c">
+
 
