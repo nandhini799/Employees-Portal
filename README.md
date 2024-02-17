@@ -18,3 +18,4 @@ Within this tab, users once again encounter two dropdowns: dropdown1, populated 
 In this tab, users are presented with a dropdown to select the team name. Upon selection, the tab displays the average number of open and closed User Stories, as well as the performance score of that particular team for every month. This feature facilitates a comprehensive understanding of team performance over time.
 
 By encapsulating these features and functionalities, the Dash application offers users a powerful platform for insightful exploration and analysis of project data.
+![Uploading Screenshot 2024-02-16 at 4.28.19 PM.png…]()
