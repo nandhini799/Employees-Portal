@@ -1,4 +1,4 @@
-## Employees-Portal
+# Employees-Portal
 # Index Page - User Authentication:
 The initiation of this interactive Dash application commences with the Index Page, which serves as a secure gateway for users. Within this interface, users are prompted to input their credentials for authentication purposes. This essential step guarantees access to authorized individuals.
 
