@@ -1,6 +1,10 @@
 # Employees-Portal
+## - The challenge is to create an interactive Dash application that provides a user-friendly interface for exploring sentiment-based insights.
+## - The application should allow users to authenticate securely, access key metrics, and analyze employee and team performance over time.
 
 <img width="956" alt="Screenshot 2024-02-16 at 4 28 19 PM" src="https://github.com/nandhini799/Employees-Portal/assets/153508488/7216fae9-d859-42a0-b78a-68d96c16b35c">
+
+## - developed a Python application using Dash and Flask frameworks
 
 
 # Index Page - User Authentication:
